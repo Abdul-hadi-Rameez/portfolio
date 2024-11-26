@@ -1,0 +1,54 @@
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-text {
+    font-size: 1rem;
+    color: #bbb;
+    margin-bottom: 15px;
+  }
+  
+  .footer-socials {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .footer-social-link {
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-social-link:hover {
+    color: #ff5722;
+  }
+  
+  /* Specific social media colors */
+  .footer-social-link.linkedin {
+    color: #0077b5;
+  }
+  
+  .footer-social-link.github {
+    color: #333;
+  }
+  
+  .footer-social-link.email {
+    color: #d44638;
+  }
+  
