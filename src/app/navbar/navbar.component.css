@@ -4,7 +4,7 @@
     padding: 15px;
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 110%;
     z-index: 1000;
   }
   
@@ -62,7 +62,7 @@
     .navbar-menu {
       display: none;
       flex-direction: column;
-      position: absolute;
+      position: sticky;
       top: 60px;
       right: 20px;
       background-color: #333;
