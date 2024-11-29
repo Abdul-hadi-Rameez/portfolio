@@ -8,12 +8,16 @@
     max-width: 900px;
     margin: 0 auto;
     text-align: center;
+    background-color: blanchedalmond;
   }
   
   .skills-title {
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 20px;
+    background-color: lightgray;
+    border-radius: 10px;
+
   }
   
   .skills-description {

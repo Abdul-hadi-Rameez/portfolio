@@ -1,8 +1,10 @@
 /* Personal Information Section Styles */
 .personal-information {
-    padding: 60px 20px;
-    background-color: #f4f4f4;
-    text-align: center;
+  padding: 10px 0px;
+  background-color: #f4f4f4;
+  text-align: center;
+  width: auto;
+  margin-top: 75px;
   }
   
   .personal-info-container {
@@ -12,13 +14,17 @@
     max-width: 900px;
     margin: 0 auto;
     padding-top: 40px;
+    background-color: lightgray;
+    border-radius: 60px;
   }
   
   .profile-picture {
     margin-bottom: 20px;
+    background-color: burlywood;
   }
   
   .profile-img {
+    src: url(hadi.png);
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -28,6 +34,7 @@
   
   .personal-info {
     max-width: 700px;
+    background-color: blanchedalmond;
   }
   
   .name {
