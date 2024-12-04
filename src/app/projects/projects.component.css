@@ -1,13 +1,15 @@
 /* Projects Section Styles */
 .projects {
     padding: 60px 20px;
-    background-color: #f4f4f4;
+    background-color:  #55535a;
   }
   
   .projects-container {
     max-width: 1100px;
     margin: 0 auto;
     text-align: center;
+    background-color: #adaab3;
+    border-radius: 30px;
   }
   
   .projects-title {
@@ -28,8 +30,8 @@
   }
   
   .project-item {
-    background-color: #fff;
-    border-radius: 8px;
+    background-color: lightgray;
+    border-radius: 30px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 20px;
     text-align: left;

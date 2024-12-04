@@ -1,13 +1,15 @@
 /* Education Section Styles */
 .education {
     padding: 60px 20px;
-    background-color: #f4f4f4;
+    background-color: #55535a;
   }
   
   .education-container {
     max-width: 900px;
     margin: 0 auto;
     text-align: center;
+    background-color: #adaab3;
+    border-radius: 30px;
   }
   
   .education-title {
@@ -22,9 +24,9 @@
   }
   
   .education-item {
-    background-color: #fff;
+    background-color: lightgray;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 30px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 30px;
   }
