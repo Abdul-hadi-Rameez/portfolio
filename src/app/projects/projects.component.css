@@ -2,13 +2,14 @@
 .projects {
     padding: 60px 20px;
     background-color:  #55535a;
+    background-image: url(project.png); height: fit-content; background-size:cover ;background-position: center;
   }
   
   .projects-container {
     max-width: 1100px;
     margin: 0 auto;
     text-align: center;
-    background-color: #adaab3;
+    background-color: #49acd9a8;
     border-radius: 30px;
   }
   
@@ -30,7 +31,7 @@
   }
   
   .project-item {
-    background-color: lightgray;
+    background-color: rgba(211, 211, 211, 0.637);
     border-radius: 30px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -43,6 +44,7 @@
   }
   
   .project-image {
+    
     width: 100%;
     height: 200px;
     object-fit: cover;

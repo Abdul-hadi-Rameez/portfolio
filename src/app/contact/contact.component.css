@@ -2,13 +2,14 @@
 .contact {
     padding: 60px 20px;
     background-color: #55535a;
+    background-image: url(contact.png); height: fit-content; background-size:cover ;background-position: center;
   }
   
   .contact-container {
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
-    background-color: #adaab3;
+    background-color: #5e9ca575;
     border-radius: 30px;
   }
   
@@ -47,7 +48,7 @@
   .form-group textarea {
     padding: 12px;
     font-size: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc9f;
     border-radius: 5px;
     width: 95%;
   }
